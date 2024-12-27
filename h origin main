@@ -1,0 +1,24 @@
+[33mcommit 3191f43a5c33250c33ccb0d36f5508526de6ae06[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 3f767aa c81a5b6
+Author: Beyzanur <beyzanurdincer502@gmail.com>
+Date:   Fri Dec 27 20:14:43 2024 +0300
+
+    Merge branch 'main' of https://github.com/byznrdincer/MySmallJavaProject
+
+[33mcommit 3f767aa8082f8a21dd07ade0886acde0e1973765[m
+Author: Beyzanur <beyzanurdincer502@gmail.com>
+Date:   Fri Dec 27 20:12:22 2024 +0300
+
+    added my small java project
+
+[33mcommit e52de9f2818688f86893c253dcea2ee1269d417c[m
+Author: Beyzanur <beyzanurdincer502@gmail.com>
+Date:   Fri Dec 27 20:03:26 2024 +0300
+
+    Added my first small Java projects
+
+[33mcommit c81a5b6c803e36237a177419c3c318239d4ac27a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Beyzanur Dinçer <beyzanurdincer502@gmail.com>
+Date:   Fri Dec 27 19:58:29 2024 +0300
+
+    Initial commit
